@@ -8,12 +8,13 @@ public class Question_04 {
         int tc = sc.nextInt();
         StringBuilder ans = new StringBuilder();
 
-        for(int i = 0; i<tc; i++){
+        for (int i = 0; i < tc; i++) {
             int num1 = sc.nextInt();
             int num2 = sc.nextInt();
             int sum = num1 + num2;
             ans.append(sum).append("\n");
         }
         System.out.println(ans);
+        sc.close();
     }
 }

@@ -35,20 +35,39 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question_05">
-    <configuration name="Assignment_02_Input_Taking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_02_Input_Taking" />
+  <component name="RunManager" selected="Application.Assignments_03_Operators.Question_04">
+    <configuration name="Assignments_03_Operators.Question_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignments_03_Operators.Question_03" />
       <module name="PW Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignments_03_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments_02_Input_Taking.Question_03" />
+    <configuration name="Assignments_03_Operators.Question_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignments_03_Operators.Question_04" />
       <module name="PW Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignments_02_Input_Taking.*" />
+          <option name="PATTERN" value="Assignments_03_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignments_03_Operators.Question_01" />
+      <module name="PW Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignments_03_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,10 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Assignments_03_Operators.Question_04" />
+        <item itemvalue="Application.Assignments_03_Operators.Question_03" />
+        <item itemvalue="Application.Question_01" />
         <item itemvalue="Application.Question_05" />
         <item itemvalue="Application.Question_04" />
-        <item itemvalue="Application.Question_03" />
-        <item itemvalue="Application.Assignment_02_Input_Taking" />
       </list>
     </recent_temporary>
   </component>
