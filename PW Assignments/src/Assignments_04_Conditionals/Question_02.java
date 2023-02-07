@@ -1,4 +1,4 @@
-package Assignents_04_Conditionals;
+package Assignments_04_Conditionals;
 
 import java.util.Scanner;
 /*
